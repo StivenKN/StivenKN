@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stiven Blandón</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🔭 I’m currently working on [t-chat](https://github.com/ConanGH-S/t-chat.git)
+- 🔭 I’m currently working on [my portfolio 😊](https://github.com/ConanGH-S/my-portfolio)
 
 - 🌱 I’m currently learning **TypeScript & SvelteKit**
 
