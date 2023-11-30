@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stiven Blandón</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🔭 I’m currently working on [my portfolio 😊](https://github.com/ConanGH-S/my-portfolio)
+- 🔭 I’m currently working on [user-management open source 😊](https://github.com/ConanGH-S/user-management-ui)
 
 - 🌱 I’m currently learning **TypeScript & SvelteKit**
 
-- 👯 I’m looking to collaborate on [practicas-sena](https://github.com/ConanGH-S/practicas-ctm.git)
+- 👯 I’m looking to collaborate on `N/A`
 
 - 💬 Ask me about **React, JS, NodeJS, CSS**
 
