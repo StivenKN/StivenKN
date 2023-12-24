@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [aguas since](https://github.com/ConanGH-S/aguas-since)
 
 - 🌱 I’m currently learning **TypeScript & SvelteKit**
+  
+- ❤️ Look my [portfolio](https://portfolio-conanghs.netlify.app/)
 
 - 👯 I’m looking to collaborate on `N/A`
 
