@@ -27,3 +27,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=conangh-s&show_icons=true&theme=radical&locale=es&layout=compact" alt="conangh-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conangh-s&show_icons=true&theme=radical&locale=es" alt="conangh-s" /></p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ConanGH-S&theme=radical"
+    alt="conanghs"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ConanGH-S&label=Profile%20views&color=blueviolet&style=plastic"
+    alt="conanghs"
+  />
+</p>
