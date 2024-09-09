@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stiven Blandón</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🔭 I’m currently working on [aguas since](https://github.com/StivenKN/aguas-since)
-
-- 🌱 I’m currently learning **TypeScript & SvelteKit**
+- 🌱 I’m currently learning **Nuxt**
   
 - ❤️ Look my [portfolio](https://portfolio-conanghs.netlify.app/)
 
-- 👯 I’m looking to collaborate on `N/A`
-
-- 💬 Ask me about **React, JS, NodeJS, CSS**
+- 💬 Ask me about **React, NextJS, TypeScript, NodeJS**
 
 - 📫 How to reach me **blandon0207s@gmail.com**
 
