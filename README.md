@@ -5,7 +5,7 @@
   
 - ❤️ Look my [portfolio](https://portfolio-conanghs.netlify.app/)
 
-- 💬 Ask me about **React, NextJS, TypeScript, NodeJS**
+- 💬 Ask me about **NextJS, Vue, TypeScript, NodeJS**
 
 - 📫 How to reach me **blandon0207s@gmail.com**
 
