@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stiven Blandón</h1>
-<h3 align="center">Back-End Developer</h3>
-
-- 🌱 I’m currently learning **Nuxt**
-  
-- ❤️ Look my [portfolio](https://portfolio-conanghs.netlify.app/)
+<h3 align="center">Laravel Developer</h3>
 
 - 💬 Ask me about **NextJS, Vue, TypeScript, NodeJS**
 
