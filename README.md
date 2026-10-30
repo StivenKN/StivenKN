@@ -1,36 +1,34 @@
-<h1 align="center">Hi 👋, I'm Stiven Blandón</h1>
-<h3 align="center">Laravel Developer</h3>
+# Stiven Blandón
 
-- 💬 Ask me about **NextJS, Vue, TypeScript, NodeJS**
+Full-stack developer in Colombia. I build products at [Skylive](https://info.skylive.world) and open-source tools for AI coding agents.
 
-- 📫 How to reach me **blandon0207s@gmail.com**
+### Building at Skylive
 
-- ⚡ Fun fact **Everytime I'm thinking about PHP, I'm having a quarter-life crisis**
+- [**BrowserLace**](https://github.com/SkyliveLLC/BrowserLace). End-to-end encrypted bookmark and tab sync across Chrome, Firefox and Safari. Self-host it on your tailnet or use the cloud.
+- [**Synclium**](https://github.com/SkyliveLLC/synclium). Syncs bookmarks and history between Helium browsers through a folder you already sync. No server.
+- [**Lienzo**](https://github.com/SkyliveLLC/lienzo). Plug-and-play landing page builder for web apps.
+- [**SoundMap**](https://github.com/SkyliveLLC/soundmap). A crowdsourced noise map, starting in San Francisco.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/blandons02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blandons02" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18757351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18757351" height="30" width="40" /></a>
-</p>
+### Tools for AI agents
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- [**linux-use**](https://github.com/StivenKN/linux-use). A Claude Code plugin that lets Claude see and drive Wayland and X11 desktops, or a private headless desktop on a server.
+- [**vikunja-mcp**](https://github.com/SkyliveLLC/vikunja-mcp). MCP server that lets Claude Code, Codex and Claude Desktop read and update your Vikunja tasks. Setup is one command.
+- [**html-plan**](https://github.com/StivenKN/html-plan). An agent skill that writes self-contained HTML plans with working prototypes.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StivenKN&show_icons=true&theme=radical&locale=es&layout=compact" alt="conangh-s" /></p>
+### On the side
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StivenKN&show_icons=true&theme=radical&locale=es" alt="conangh-s" /></p>
+- [**open-game-linux**](https://github.com/StivenKN/open-game-linux). Linux game compatibility from verified community reports, with hardware diagnosis and adoption guides.
+- [**lilith-ai-mod**](https://github.com/StivenKN/lilith-ai-mod). Talk with Lilith from *The NOexistenceN of Lilith* in any game language, using Ollama or a hosted model.
+- [**catppuccin-t3-code**](https://github.com/StivenKN/catppuccin-t3-code). All four Catppuccin flavors for T3 Code.
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=StivenKN&theme=radical"
-    alt="conanghs"
-  />
-</p>
+### Stack
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ConanGH-S&label=Profile%20views&color=blueviolet&style=plastic"
-    alt="conanghs"
-  />
-</p>
+[![Stack](https://skillicons.dev/icons?i=ts,react,vue,laravel,php,go,postgres,tailwind,cloudflare,linux&theme=dark)](https://skillicons.dev)
+
+### Activity
+
+[![/dev/null activity](https://dev-null.sh/@StivenKN/graph.svg)](https://dev-null.sh/@StivenKN)
+
+### Contact
+
+[blandon0207s@gmail.com](mailto:blandon0207s@gmail.com) · [LinkedIn](https://www.linkedin.com/in/blandons02) · [info.skylive.world](https://info.skylive.world)
